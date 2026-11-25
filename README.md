@@ -4,6 +4,7 @@ Microsserviço de **Multas** do sistema [Repositório das Letras](https://github
 
 Registra multas e pagamentos. Ao lançar ou pagar uma multa, altera a dívida do leitor.
 
+
 ## Endpoints
 
 | Método | Rota                              | Descrição                                                        |
